@@ -1,0 +1,13 @@
+Jev has been taking over the internet. And if you don't know what Jev is by now, you're probably living under a rock.
+
+People are building genuinely cool stuff with it. Super fast browser agents. Agent routing. Content moderation. All great, but all software.
+
+Nobody's realizing how Jev could change the way we deal with hardware.
+
+Because integrating sensor data into any project has always been a massive headache. You get raw, messy data. You spend forever figuring out what it means. You finally get the output you want, and then you do the whole thing again for the next one. Again and again.
+
+But imagine the hardware shipped with a model like Jev inside it. Now you just send it the output you want, and it tells you the likelihood that's actually what's happening.
+
+And the thing is, this works for pretty much any sensor you can think of. EEGs, smart watches, cameras, motion, and many more. Every single one of those used to be its own project. Months of work just to pull one thing out. Now when you integrate with these sensors, you just ask what kind of data you want from it.
+
+I don't think people realise how crazy this could get.
